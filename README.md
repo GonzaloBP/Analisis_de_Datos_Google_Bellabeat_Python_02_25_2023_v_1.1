@@ -3,6 +3,8 @@
 Este repositorio contiene el análisis de caso de estudio para Bellabeat, el proyecto final del Certificado Profesional de Análisis de Datos de Google. El objetivo es analizar datos de uso de smartwatches de la competencia (Fitbit) para identificar tendencias y patrones que puedan guiar la estrategia de marketing de Bellabeat.
 El análisis sigue el ciclo de vida completo de un proyecto de datos: Preguntar, Preparar, Procesar, Analizar, Compartir y Actuar.
 
+link a la notebook(kaggle): https://www.kaggle.com/code/gonzalobp/an-lisis-de-datos-caso-bellabeat-python-2023
+
 ### Tarea Empresarial (Fase de Pregunta)
 
 El objetivo principal es analizar los datos de uso de dispositivos inteligentes para descubrir tendencias y patrones clave. A partir de estos hallazgos, se deben generar recomendaciones de alto nivel que informen y guíen la futura campaña de marketing de Bellabeat, ayudando a la empresa a crecer y a mejorar sus productos.
