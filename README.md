@@ -52,8 +52,11 @@ Insight: Aunque la actividad intensa es la más efectiva para quemar calorías, 
 Basado en los hallazgos, se proponen las siguientes recomendaciones para la campaña de marketing de Bellabeat:
 
 -Promocionar los Beneficios de la Actividad Intensa: La campaña de marketing debería destacar cómo los productos de Bellabeat (Leaf, Time) ayudan a los usuarios a monitorear y optimizar sus entrenamientos de alta intensidad, que son los que generan un mayor gasto calórico.
+
 -Lanzar Campañas y Retos de Fin de Semana: Bellabeat podría crear contenido, notificaciones y retos especiales en su app para los fines de semana (ej. "Reto de Pasos del Sábado", "Domingo Activo"), capitalizando la tendencia natural de los usuarios a ser más activos en esos días.
+
 -Combatir el Sedentarismo con Notificaciones Inteligentes: Dado que el tiempo sedentario es una constante, Bellabeat puede publicitar sus funciones de recordatorio para moverse.La campaña podría enfocarse en cómo sus dispositivos ayudan a las usuarias a integrar pequeños momentos de actividad a lo largo del día.
+
 -Crear Contenido sobre Rutinas Efectivas: Bellabeat puede ofrecer en su app y redes sociales contenido sobre rutinas cortas y de alta intensidad (HIIT), mostrando cómo maximizar la quema de calorías en poco tiempo, lo cual se alinea con el hallazgo de que la actividad intensa es la más correlacionada con este objetivo.
 
 **Stack Tecnológico**
